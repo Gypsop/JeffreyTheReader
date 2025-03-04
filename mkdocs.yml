@@ -2,3 +2,7 @@ site_name: Jeffrey the Reader - 一个爱读英文原版书的人
 site_url: https://reader.gypsop.tech
 theme:
   name: material
+  palette:
+    primary: teal
+    accent: cyan
+  language: zh
