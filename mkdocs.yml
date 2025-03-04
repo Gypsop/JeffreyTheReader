@@ -6,3 +6,12 @@ theme:
     primary: teal
     accent: cyan
   language: zh
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Gypsop/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/gypsop.zhu/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/xiaoshengzhu/
+copyright: Copyright &copy; 2016 - 2025 Xiaosheng (Jeffrey) ZHU
