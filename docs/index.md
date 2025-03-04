@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# 欢迎来到我的读书世界
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+我是一个热爱英文、并享受在生活中阅读英文的人。现在，我希望在这里分享我所读过的英文原版书给你们——希望你们也会爱上它们。
