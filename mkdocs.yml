@@ -15,3 +15,6 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/xiaoshengzhu/
 copyright: Copyright &copy; 2016 - 2025 Xiaosheng (Jeffrey) ZHU
+nav:
+  - Home: index.md
+  - About: about.md
